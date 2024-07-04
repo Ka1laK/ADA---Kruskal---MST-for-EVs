@@ -1,2 +1,2 @@
-# ADA---Kruskal---MST-for-EVs
+# ADA KruskalMST-for-EVs
 ADA - Kruskal - MST for EVs
