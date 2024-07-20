@@ -7,9 +7,9 @@ Este proyecto desarrolla un algoritmo de Kruskal adaptado específicamente para 
 
 ### MAPEO REALISTA
 A continuación se muestra la implementación real a nivel nacional
-![alt text](image.png)
+![alt text](img/image.png)
 
 ### MAPEO SENCILLO
 A continuación se muestra la implementación pragmatica
 
-![alt text](image-1.png)
+![alt text](img/image-1.png)
